@@ -2,7 +2,7 @@
 
 This repository contains my daily practice solutions for LeetCode problems.
 I am solving problems consistently to strengthen my Data Structures and
-Algorithms fundamentals for technical interviews.
+Algorithms fundamentals.
 
 ## Structure
 - Arrays
